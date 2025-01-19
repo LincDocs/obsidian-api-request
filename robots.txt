@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://LincDocs.github.io/obsidian-api-request/sitemap.xml
